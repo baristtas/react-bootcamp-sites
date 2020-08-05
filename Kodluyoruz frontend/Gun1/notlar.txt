@@ -1,0 +1,21 @@
+span aklında tut
+div böler satır açar
+etiket ismini yaz taba bas
+
+tab'a basarken
+>icinde
++kardeşi
+^üstü
+emmet
+
+**************************************************************************
+soru:h1 h2 h3 olustur p icinde lorem10 ul li 3a link
+cevabı:h1>lorem2^h2>lorem1^h3>lorem3^p>lorem10^ul>li*3>a>lorem2
+**************************************************************************
+soru:div icinde h1 lorem1 ve h2lorem2
+div h3>lorem1 p>lorem10
+div ul>li*3>a
+
+cevap:
+div>h1>lorem1^h2>lorem2^^div>h3>lorem1^p>lorem10^^>ul>li*3>a
+**************************************************************************

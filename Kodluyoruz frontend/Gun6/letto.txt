@@ -1,0 +1,33 @@
+let names=[
+    "baris",
+    "zarto",
+    "ziro",
+    "maho",
+    "keje",
+    1,
+    "",
+]
+var item=document.getElementById("city");
+console.log(names[0]);
+var i=0;
+while(i <names.length){
+    if(names[i].length && names[i]!="baris"){
+        item.innerHTML+=`<li>${names[i]}</li>`;
+    }
+    i+=1;
+}
+
+
+// return 
+function add(num1,num2){
+    let total = num1 + num2;
+    return total;
+}
+
+function matrixPrint(array[]){
+    for(var i=0;i<5;,i++){
+        console.log(array[i]);
+    }
+}
+matrixPrint(names[]);
+// öğrenci notunu adam girecek ama girerken yanlışlıkla bir harfe basıyor. sayı girene kadar prompt kalacak. 

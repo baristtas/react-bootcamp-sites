@@ -1,0 +1,33 @@
+flatuicolors (renk paleti sitesi)
+(margin padin?)
+    p.color.blue*2>lorem4
+# id tanımlar
+
+
+    <!--
+        h2.color-blue ve
+        h3 color red
+        ul icinde 4li color blue tek seferde
+    -->
+
+    div*2>h2.color-blue>lorem3^h3.color-red>lorem4^ul>li.color-blue*4>lorem5
+
+    markdown nedir? (md)
+    angular vuejs react
+    pecpublisher
+    <a href="#" class="btn btn-primary">tıklaaa</a>
+.container-fluid>.row>.col-6*2>.row>.col-6*2>lorem2
+class img fluid
+class mt-1 bir boyut aşağı indirir
+text justify yazıları sağa sola yaslar
+<!--margin iki telefon arasındaki boşluk, padding ekran çerçevesi, left right top bottom-->
+m=margin
+p=padding
+r=right
+l=left
+ml-0 mr-0 pl-2
+dörde kadar
+text right pt2 8lik kısma
+hipo
+
+bundlehaber birinci ikinci ve üçüncü yap

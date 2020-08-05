@@ -1,0 +1,26 @@
+electron
+js değişken kuralları:******************************************
+başında rakamla başlamaz
+var değişkenAdi= "değişken değeri"
+// yani çift slash yorum satırı belirtir
+camelCase: ilkKelimeKucukBaslar
+türkçe karakter kullanılmaz(değişken adında)
+degisken isimlerini ingilizce yap(evrensellik)
+google lighthouse
+var firstName="baris.";
+firstName="Barış";
+console.log(firstName.toUpperCase());
+var lastName="Taş";
+console.log(lastName);
+fullName = firstName+" "+lastName;
+fullName = fullName.toLowerCase();
+console.log(fullName);
+var fullNameLen = fullName.length;
+console.log(fullNameLen);
+console.log(firstName[firstName.length -1].toUpperCase());
+var age=20;
+console.log(fullName , "yasiniz" , age++);
+console.log(firstName.substring(0,4)); // array[0:4]
+console.log(typeof(lastName));
+console.log(.7 + .2);
+console.log(typeof(firstName));

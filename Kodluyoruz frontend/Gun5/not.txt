@@ -1,0 +1,30 @@
+console.log(Boolean(Number(age))) // 0 dışında bir rakam mı?
+listeadi.push("") dizinin sonuna ekler
+listeadi.unshift("") dizinin başına ekler
+
+iki diziyi birbirine eşitlersen birinden bir eleman çıkarsa diğerinden de çıkar. bunun için slice yaparak iki diziyi birbirinden ayırıyoruz.
+
+!(18==18) -> false çıkar
+
+
+var not=window.prompt("Notunuzu giriniz");
+if (!(isNaN(not))){ //isNaN sayı olup olmadığını denetler. ünlem true <----> false şeklinde çevirir. 
+                    //sayı değilse en alttaki ife girer   0 <= not <= 100 bunu bil
+    if(not > 85){
+        console.log("pekiyi");
+    }
+    else if(not > 70){
+        console.log("İyi");
+    }
+    else if(not > 60){
+        console.log("orta");
+    }
+    else if(not > 45){
+        console.log("Gecer");
+    }
+    else if(not <= 45){
+        console.log("İyi");
+    }
+}
+
+babel

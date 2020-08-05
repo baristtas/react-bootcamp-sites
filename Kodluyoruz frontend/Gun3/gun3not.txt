@@ -1,0 +1,42 @@
+stackoverflow
+*********************************************************************
+soru:
+en büyük 5 sonra kücülüyor
+lg5 md4 sm3 cep=block
+cevap:
+        <div class="row">
+            <div class="col-lg col-md-3 col-sm-4 bg-primary">
+                Lorem.
+            </div>
+            <div class="col-lg col-md-3 col-sm-4 bg-primary">
+                Quidem!
+            </div>
+            <div class="col-lg col-md-3 col-sm-4 bg-primary">
+                Sit.
+            </div>
+            <div class="col-lg col-md-3 col-sm-4 bg-primary">
+                Vel.
+            </div>
+            <div class="col-lg col-md-3 col-sm-4 bg-primary">
+                Molestias.
+            </div>
+        </div>
+*********************************************************************
+soru:
+büyük ekranda büyük yazı, orta ekranda yazı, cepte incele diyecek
+cevap:
+*********************************************************************
+ödev:
+nav
+bootstrap sitesinden navbar çek
+navend
+carousel
+carouselend
+products
+card componenti çek
+productsend
+info
+infoend
+footer
+footer
+#e13f3f
