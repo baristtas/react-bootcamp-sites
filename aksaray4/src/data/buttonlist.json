@@ -1,0 +1,7 @@
+[
+    {"href":"#", "text":"Anasayfa", "className":"btn btn-primary mr-1"},
+    {"href":"#", "text":"hakkımızda", "className":"btn btn-primary mr-1"},
+    {"href":"#", "text":"ürünler", "className":"btn btn-primary mr-1"},
+    {"href":"#", "text":"iletişim", "className":"btn btn-primary mr-1"}
+    
+  ]
